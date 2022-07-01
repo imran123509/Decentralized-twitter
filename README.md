@@ -24,3 +24,6 @@ Install
 [Node.js](https://nodejs.org/en/)
 should work with any node version below 16.5.0
 
+Install
+[](https://hardhat.org/)
+
