@@ -19,3 +19,8 @@ Javascript (React & Testing)
 (Navigational components)
 
 ## Requirements For Initial Setup
+
+Install
+[Node.js](https://nodejs.org/en/)
+should work with any node version below 16.5.0
+
