@@ -35,5 +35,12 @@ Install
 
 
 $ cd decentra-twitter
+
 $ npm install
+
+**3. Boot up local development blockchain**
+
+$ cd decentratwitter
+
+$ npx hardhat node
 
