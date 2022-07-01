@@ -35,6 +35,5 @@ Install
 
 
 $ cd decentra-twitter
-
 $ npm install
 
