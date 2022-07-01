@@ -1,6 +1,6 @@
 # Decentra-twitter
 
-##Technology Stack & Tools
+## Technology Stack & Tools
 
 ###Solidity (Writing Smart Contract)
 
