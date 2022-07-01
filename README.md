@@ -58,4 +58,16 @@ If you have not added hardhat to the list of networks on your metamask, open up 
 
 $ npx hardhat run scripts/deploy.js --network localhost
 
+**6. Run Tests**
+
+$ npx hardhat test
+
+**7. Launch Frontend**
+
+$ npm run start
+
+## License
+
+MIT
+
 
