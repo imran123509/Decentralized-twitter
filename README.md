@@ -54,3 +54,8 @@ If you have not added hardhat to the list of networks on your metamask, open up 
 [ "http://127.0.0.1:8545"](http://127.0.0.1:8545/)
 . For the chain ID enter "31337". Then click save.
 
+**5. Run deploy script to migrate smart contracts**
+
+$ npx hardhat run scripts/deploy.js --network localhost
+
+
