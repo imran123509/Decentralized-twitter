@@ -17,3 +17,5 @@ Javascript (React & Testing)
 
 [React Router](https://v5.reactrouter.com/)
 (Navigational components)
+
+## Requirements For Initial Setup
