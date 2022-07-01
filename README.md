@@ -27,3 +27,14 @@ should work with any node version below 16.5.0
 Install
 [Hardhat](https://hardhat.org/)
 
+## Setting Up
+
+**1. Clone/Download the Repository**
+
+**2. Install Dependencies:**
+
+
+$ cd decentra-twitter
+
+$ npm install
+
